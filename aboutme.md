@@ -4,13 +4,11 @@ title: About me
 subtitle: Who Am I?
 ---
 
-My name is Beshari Jamal. I have the following qualities:
+My name is Beshari Jamal. Welcome to my space; this website is an ongoing effort to share some of the multidisciplinary projects I have worked on and some of my notes and ideas with the world. Enjoy!.
 
 - I am passionate about mechanical design
 - I am also passionate about programming
 - Therefore I'm passionate about robotics
-
-What else do you need?
 
 ### My story
 #### Professional Experience
@@ -73,6 +71,3 @@ Single Event Effects (SEEs) testing station
 <img src=" /assets/img/SEE_cad.png" width="49%"/>
 <img src=" /assets/img/SEE-real.jpg" width="49%"/>
 </p>
-
----
-Welcome to my space; this website is an ongoing effort to share some of the multidisciplinary projects I have worked on and some of my notes and ideas with the world. Enjoy!.
