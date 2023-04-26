@@ -71,3 +71,22 @@ Single Event Effects (SEEs) testing station
 <img src=" /assets/img/SEE_cad.png" width="49%"/>
 <img src=" /assets/img/SEE-real.jpg" width="49%"/>
 </p>
+
+#### Formal Education
+Bachelor of Applied Science: in Mechanical engineering
+
+University of Ottawa,
+
+Graduated 2015.
+
+This program encompassed topics in mechanics, electronics, materials, energy, manufacturing, simulation and computational methods.
+
+#### Professional Development
+
+[Udacity: Robotics Software Engineer Nanodegree](https://confirm.udacity.com/GGADGP2T)
+
+[Udacity: Intro to Machine Learning with Pytorch](https://confirm.udacity.com/KDVEJWVL)
+
+[Coursera Accelerated Computer Science Fundamentals](https://www.coursera.org/account/accomplishments/specialization/G6L8A429QE49)
+
+Udacity: C++ nanodegree (ongoing)
