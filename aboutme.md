@@ -4,11 +4,8 @@ title: About me
 subtitle: Who Am I?
 ---
 
-My name is Beshari Jamal. Welcome to my space; this website is an ongoing effort to share some of the multidisciplinary projects I have worked on and some of my notes and ideas with the world. Enjoy!.
-
-- I am passionate about mechanical design
-- I am also passionate about programming
-- Therefore I'm passionate about robotics
+Hi, my name is Beshari.
+I'm a mechanical engineer by degree,  but really!, I to like know how things work, to orchestrate how things could move, to plan how things intertwine — an engineer by degree, a physicist at heart and roboticist by choice.
 
 ### My story
 #### Professional Experience
