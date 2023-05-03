@@ -5,9 +5,8 @@ subtitle: Who Am I?
 ---
 
 Hi, my name is Beshari.
-I'm a mechanical engineer by degree,  but really!, I to like know how things work, to orchestrate how things could move, to plan how things intertwine — an engineer by degree, a physicist at heart and roboticist by choice.
+I'm a mechanical engineer by degree,  but really!, I like to know how things work, to orchestrate how things could move, to plan how things intertwine — an engineer by degree, a physicist at heart and roboticist by choice.
 
-### My story
 #### Professional Experience
 
 ##### Avidbots
