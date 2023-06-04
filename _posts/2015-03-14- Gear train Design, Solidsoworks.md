@@ -12,8 +12,6 @@ comments: true
 ---
 This project was part of the University of Ottawa's Machine Design Course. In a team of three, we designed a gear train that reduces the speed and amplifies the torque to be used in a cement mixer. The analysis included, shaft, gear, bearing and gear key analysis and sizing, all components had to be picked from existing catalogues.
 
-![gearTrainDesign](/assets/img/gearTrainDesign/0.bmp)
-
 ![gearTrainDesign](/assets/img/gearTrainDesign/1.bmp)
 
 ![gearTrainDesign](/assets/img/gearTrainDesign/2.bmp)
