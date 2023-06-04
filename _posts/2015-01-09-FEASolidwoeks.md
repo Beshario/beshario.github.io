@@ -5,7 +5,7 @@ subtitle: finite element analysis with Solidworks
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/yescoach.jpg
+thumbnail-img: /assets/img/FEA/4.bmp
 
 tags: [fitness, Angular, Ionic, web technologies, mobile app, health]
 comments: true
