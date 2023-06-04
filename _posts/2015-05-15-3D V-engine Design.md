@@ -1,6 +1,6 @@
 ---
 layout: post
-title: V-engine Design
+title: V-engine compnenets Design
 subtitle: 3DCAD of a v-engine design using Solidworks
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

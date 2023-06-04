@@ -1,7 +1,7 @@
 ---
 layout: post
-title: gearTrainDesign
-subtitle: Gear Train Design with Solidworks Solidworks 
+title: gear Train Design
+subtitle: Gear Train Design with Solidworks 
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
