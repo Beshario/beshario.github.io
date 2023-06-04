@@ -10,9 +10,7 @@ thumbnail-img: /assets/img/Engine/3.bmp
 tags: [3DCAD, solidworks, ANSYS]
 comments: true
 ---
-Engine
-
-Engine analysis showing weak areas during design of a flight simulator assistance handle.  
+In this project, Part of the Introduction to Mechanical Engineering Course: I modelled some of the major internal components of a motorcycle V-engine. this helped me master the tools and techniques employed in a SOLIDWORKS automotive design project. Main components I have modelled are flywheel, connecting rods, valve, pistons, and sprockets.
 
 ![Engine](/assets/img/Engine/0.bmp)
 
