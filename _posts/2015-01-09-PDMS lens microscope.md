@@ -10,7 +10,7 @@ thumbnail-img: /assets/img/PDMS/0.bmp
 tags: [3DCAD, solidworks, prototyping]
 comments: true
 ---
-This university school project demosntrates mechanical product design, prototyping and testing.
+University project demosntrating mechanical product design, prototyping and testing.
 
 In a group of two, we designed and prototyped a sturdy, affordable microscope base for PDMS lenses that is phone-compatible. Our responsibilities included market research, concept generation, selection, evaluation and analysis, design for manufacturing and assembly as well as failure mode analysis, prototyping, financial modelling, patent making and reviewing and prototype testing.
 

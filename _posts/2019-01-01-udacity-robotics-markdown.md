@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Udacity Robotics Software Engineer Nanodegree
-subtitle: My projects
+subtitle: Projects ShowOff.
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg

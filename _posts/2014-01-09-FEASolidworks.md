@@ -10,18 +10,16 @@ thumbnail-img: /assets/img/FEA/4.bmp
 tags: [3DCAD, solidworks, ANSYS]
 comments: true
 ---
-FEA
-
 FEA analysis showing weak areas during design of a flight simulator assistance handle.  
 
-![YesCoach](/assets/img/FEA/0.bmp)
+![FEA](/assets/img/FEA/0.bmp)
 
-![YesCoach](/assets/img/FEA/1.bmp)
+![FEA](/assets/img/FEA/1.bmp)
 
-![YesCoach](/assets/img/FEA/2.bmp)
+![FEA](/assets/img/FEA/2.bmp)
 
-![YesCoach](/assets/img/FEA/3.bmp)
+![FEA](/assets/img/FEA/3.bmp)
 
-![YesCoach](/assets/img/FEA/4.bmp)
+![FEA](/assets/img/FEA/4.bmp)
 
-![YesCoach](/assets/img/FEA/5.bmp)
+![FEA](/assets/img/FEA/5.bmp)

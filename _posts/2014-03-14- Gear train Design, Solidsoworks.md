@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gear Train Design
+title: Gear Train Design
 subtitle: Gear Train Design with Solidworks 
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -10,6 +10,8 @@ thumbnail-img: /assets/img/gearTrainDesign/4.bmp
 tags: [3DCAD, solidworks]
 comments: true
 ---
+Solidworks University gear train design project for design for machinary course.
+
 This project was part of the University of Ottawa's Machine Design Course. In a team of three, we designed a gear train that reduces the speed and amplifies the torque to be used in a cement mixer. The analysis included, shaft, gear, bearing and gear key analysis and sizing, all components had to be picked from existing catalogues.
 
 ![gearTrainDesign](/assets/img/gearTrainDesign/1.bmp)
