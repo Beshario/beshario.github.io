@@ -5,7 +5,7 @@ subtitle: Gear Train Design with Solidworks
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/gearTrainDesign/4.bmp
+thumbnail-img: /assets/img/gearTrainDesign/3.bmp
 
 tags: [3DCAD, solidworks]
 comments: true
