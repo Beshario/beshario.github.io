@@ -10,8 +10,10 @@ thumbnail-img: /assets/img/perceptionchallenge.png
 tags: [education, robotics, Udacity]
 comments: true
 ---
+Projects ShowOff as part of Udacity Robotics Software Engineer Nanodegree.
 
-Udacity Robotics Software Engineer nanodegree is a 1-year program with two terms covering topics including perception, localization, path planning, control, Computer Vision, machine, and deep learning techniques for robot perception and behaviour. All this through the robotics operating system (ROS) with an introduction to robotic hardware systems. The program was in 2017
+The following listing demonstrate the different projects at Udacity programs. The projects cover different fields of robotics and AI.
+Udacity Robotics Software Engineer nanodegree is a 1-year program with two terms covering topics including perception, localization, path planning, control, Computer Vision, machine, and deep learning techniques for robot perception and behavior. All this through the robotics operating system (ROS) with an introduction to robotic hardware systems. The program was in 2017
 These are my implementation of the projects. The final report can be found in a pdf file in each of the following repositories.
 
 1. [Udacity Robotics Perception Challenge](https://github.com/Beshario/Udacity-Robotics-Perception-Challenge)
