@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Udacity Robotics Software Engineer Nanodegree
-subtitle: Projects ShowOff.
+title: Robotic SW Engineer Education Projects 
+subtitle: Robotic projects covering localization, mapping and planning.
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
@@ -10,7 +10,7 @@ thumbnail-img: /assets/img/perceptionchallenge.png
 tags: [education, robotics, Udacity]
 comments: true
 ---
-Projects ShowOff as part of Udacity Robotics Software Engineer Nanodegree.
+Projects as part of Udacity Robotics Software Engineer Nanodegree.
 
 Udacity Robotics Software Engineer nanodegree is a 1-year program with two terms covering topics including perception, localization, path planning, control, Computer Vision, machine, and deep learning techniques for robot perception and behavior. All this through the robotics operating system (ROS) with an introduction to robotic hardware systems. The program was in 2017
 
@@ -18,15 +18,6 @@ The following listing demonstrate the different projects at Udacity programs. Th
 
 These are my implementation of the projects. The final report can be found in a pdf file in each of the following repositories.
 
-1. [Udacity Robotics Perception Challenge](https://github.com/Beshario/Udacity-Robotics-Perception-Challenge)
-
-    3D point cloud processing, segmentation and object recognition of table top items
-2. [Robotic Arm Pick and Place](https://github.com/Beshario/Robotic-Arm-Pick-and-Place)
-
-    Developing and integrating the inverse kinematic module and using it in pick and place operation of robotic arm,
-3. [where am I](https://github.com/Beshario/WhereAmI)
-
-    Robot model development, simulation and using amcl to localize within a known map.
 4. [follow me](https://github.com/Beshario/RoboND-DeepLearning-Project)
 
     Training a FCN (SegNet) and deploying it to a drone in Unity, to follow a specific person in a crowd .
@@ -39,9 +30,7 @@ These are my implementation of the projects. The final report can be found in a 
 7. [Robotic Arm pick and place using deep reinforcement learning](https://github.com/Beshario/DRL-Robotics-Arm)
 
     training a convocational DQN agent in two-joint a robotic arm to touch an on-top of the table item. 
-8. [SLAM](https://github.com/Beshario/SLAM-map-my-world)
 
-    using RTAB-Map for slam in a kitchen environment, in Gazebo.
 
 
 <!-- 

@@ -22,14 +22,12 @@ This course teaches students how to build dynamic websites with Ajax and with Li
 In this project, I developed a dynamic website using PHP, HTML, andCSS to parse dynamically an XML document menu, then it renders the website pages accordingly. The website can also remember the user computer using sessions, it wont their order if the browser is closed, Once the order is complete, the data is reset and and a confirmation email is sent to the user.
 here are some of the screenshots:
 
-![DW](/assets/img/DW/0.png)
+![DW](/assets/img/DW/1.png)
 
 
 ### Project 2: C$75 Finance
 
 In this project, I developed C$75 Finance using PHP, Javascript Ajax, and MysQL, a stock purchasing website that  features a database of registered users, a live lookup share value retriev
 ed from Yahoo Finance, and a transaction history for each user. The website is built using PHP, MySQL, HTML, CSS, and Javascript. The website is also secured against SQL injection and cross-site scripting attacks. The website is also responsive and mobile friendly. Here are some of the screenshots:
-
-![DW](/assets/img/DW/1.png)
 
 ![DW](/assets/img/DW/2.png)
