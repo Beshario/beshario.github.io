@@ -5,8 +5,7 @@ subtitle: Who Am I?
 ---
 
 Hi, my name is Beshari.
-I'm a mechatronics engineer with love for system design and contro. Currently I am working on advancing robtoics with integrating deep and reinforcement learing techniqques to robots.
-
+I'm a mechatronics engineer with love for system design and control. 
 
 [Resume](/assets/PDF/Beshari_Jamal_sw.pdf)
 
@@ -89,4 +88,4 @@ This program encompassed topics in mechanics, electronics, materials, energy, ma
 
 [Coursera Accelerated Computer Science Fundamentals](https://www.coursera.org/account/accomplishments/specialization/G6L8A429QE49)
 
-Udacity: C++ nanodegree (ongoing)
+Udacity: C++ nanodegree (pending finalizing final project)
