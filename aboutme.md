@@ -16,10 +16,10 @@ I'm a mechatronics engineer with love for system design and control.
 
 Oct-2021- Mar-2023
 
-Sensors software developer.
-
+Autonomy software developer.  
+Part of the sensor team
 - AMR sensor layout design, prototyping, testing and development.
-- Driver development and sensors integration to autonomy, calibration algorithms and safety systems.
+- Driver development and sensors interfacing and integration to autonomy, calibration algorithms and safety systems.
 - Testing and qualification of sensors to be used for robots.
 - Hardware validation and bring-up of sensors and autonomy in new robot configurations and models.
 - Software development for sensors and supporting systems.
@@ -34,42 +34,12 @@ Sensors software developer.
 
 Sept-2018- Oct-2021
 
-Robotics research and development engineer.
-
+Robotics research and development engineer
 - Developed and programmed the control software for autonomous robotic laser ablation work cell using
 6-Dof robotic arms.
-- Proved the concept and contributed algorithms, in C++, in a Linux environment for robot-based 3D
-scanning, object segmentation, and tool path generation to provide real-time laser cleaning of serial
-manipulators.
-- Created simulations in Gazebo of the robot, environments and objects to test new algorithms and robot
-behavior.
-- Interfaced with different sensors, including RGB-D sensors, laser scanners and structured light sensors
-and integrate them into the robotic system.
-
-<p float="center">
-<img src=" /assets/img/LCSprocess.png" width="100%"/>
-<img src=" /assets/img/LCSrobot.png" width="100%"/>
-</p>
-
-###### Mechanical design for internal and external clients
-
-- Produced CAD solid models, detailed drawings, and assemblies for laser cleaning systems, robotics
-accessories, EOAT and robotic cells.
-
-<dev float="center">
-<img src=" /assets/img/cobot_real.jpg" width="49%"/>
-<img src=" /assets/img/100watt.png" width="49%"/>
-</dev>
-
-Single Event Effects (SEEs) testing station
-
-- Project management
-- Implementation, deployment and commissioning of the system.
-
-<p float="center">
-<img src=" /assets/img/SEE_cad.png" width="49%"/>
-<img src=" /assets/img/SEE-real.jpg" width="49%"/>
-</p>
+- Proved the concept and contributed algorithms
+- Created simulations in Gazebo of the robot, environments and objects
+- Interfaced with different sensors and integrated them into the robotic system. [*More details ...*](/2021-09-30-ASP)
 
 #### Formal Education
 Bachelor of Applied Science: in Mechanical engineering
@@ -87,5 +57,3 @@ This program encompassed topics in mechanics, electronics, materials, energy, ma
 [Udacity: Intro to Machine Learning with Pytorch](https://confirm.udacity.com/KDVEJWVL)
 
 [Coursera Accelerated Computer Science Fundamentals](https://www.coursera.org/account/accomplishments/specialization/G6L8A429QE49)
-
-Udacity: C++ nanodegree (pending finalizing final project)

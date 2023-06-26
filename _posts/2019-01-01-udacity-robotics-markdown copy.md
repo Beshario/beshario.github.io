@@ -5,7 +5,7 @@ subtitle: Robotic projects covering localization, mapping and planning.
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/perceptionchallenge.png
+thumbnail-img: /assets/img/samplereturn.jpeg
 
 tags: [education, robotics, Udacity]
 comments: true
