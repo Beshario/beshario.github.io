@@ -7,13 +7,19 @@ subtitle: Gear Train Design with Solidworks
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/gearTrainDesign/3.bmp
 
-tags: [3DCAD, solidworks]
+tags: [3DCAD, Education]
 comments: true
 ---
-Solidworks University gear train design project for design for machinery course.
+Solidworks University Gear Train Design Project for Design for Machine Design Course
 
+In the context of the University of Ottawa's Machine Design Course, the challenge was to develop a gear train system tailored for use within a cement mixer. The key requirement was to significantly reduce speed while amplifying torque, and all components had to be selected from existing catalogues, adding to the complexity of the project.
 
-This project was part of the University of Ottawa's Machine Design Course. In a team of three, we designed a gear train that reduces the speed and amplifies the torque to be used in a cement mixer. The analysis included, shaft, gear, bearing and gear key analysis and sizing, all components had to be picked from existing catalogues.
+Working in a team of three, we utilized Solidworks to design a gear train solution that met the specific requirements. The process involved:
+-Conducting a comprehensive analysis of essential elements, including shafts, gears, bearings, and gear keys. 
+-Sizing each component based on the constraints and desired performance criteria. 
+-Ensuring that all selected components were sourced from existing catalogues, aligning with real-world availability and application. 
+
+The project showcased our ability to merge theoretical knowledge with practical design, fulfilling course requirements and enhancing our engineering skills in mechanical designsizing, all components had to be picked from existing catalogues.
 
 ![gearTrainDesign](/assets/img/gearTrainDesign/1.bmp)
 

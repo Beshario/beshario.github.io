@@ -7,12 +7,15 @@ subtitle: 3DCAD of a v-engine design using Solidworks
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Engine/3.bmp
 
-tags: [3DCAD, solidworks, ANSYS]
+tags: [3DCAD, Education]
 comments: true
 ---
 
-V-engine 3D modelling using Solidworks.
-Part of the Introduction to Mechanical Engineering Course: I modelled some of the major internal components of a motorcycle V-engine. this helped me master the tools and techniques employed in a SOLIDWORKS automotive design project. Main components I have modelled are flywheel, connecting rods, valve, pistons, and sprockets.
+The need to understand and master the tools and techniques utilized in automotive design, specifically in modeling the internal components of a motorcycle V-engine.
+
+As part of the Mechanical engineering final project, I used SolidWorks to model some of the major internal components of a motorcycle V-engine, including the flywheel, connecting rods, valve, pistons, and sprockets.
+
+This project allowed me to deepen my understanding and mastery of automotive design tools within SolidWorks. It facilitated hands-on experience with critical engine components, laying the groundwork for future engineering and design projects in the automotive field.
 
 ![Engine](/assets/img/Engine/0.bmp)
 
