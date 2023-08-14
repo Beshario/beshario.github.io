@@ -27,7 +27,7 @@ The circular robot is mine adn the rectangular robot model is provided by Udacit
 
 Some of the performance results are shown below:
 
-At the start the robot is not localized. Therefore the monte carlo alogrithm is used to localize the robot. The particles are generated randomly and the robot is moved around the map. The particles are then weighted based on the sensor readings and the particles are resampled. The process is repeated until the robot is localized. This can be show in the last image.
+At the start the robot is not localized. Therefore the monte carlo algorithm is used to localize the robot. The particles are generated randomly and the robot is moved around the map. The particles are then weighted based on the sensor readings and the particles are resampled. The process is repeated until the robot is localized. This can be show in the last image.
 
 
 <p align="center">

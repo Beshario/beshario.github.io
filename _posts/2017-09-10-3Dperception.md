@@ -39,7 +39,7 @@ comments: true
 
 ![demo-1](https://user-images.githubusercontent.com/20687560/28748231-46b5b912-7467-11e7-8778-3095172b7b19.png)
 
-This project is about programming the robot to make it (understand) what it sees via an RGB-D camera. an RGB-D camera is like a normal camera with a depth sensor. therefore it registers information about the colours (RGB sensors) and depth (distances from the camera to object surfaces).
+This project is about programming the robot to make it (understand) what it sees via an RGB-D camera. an RGB-D camera is like a normal camera with a depth sensor. therefore it registers information about the colors (RGB sensors) and depth (distances from the camera to object surfaces).
 
 This report will go through the pipeline of Robot Perception
 
@@ -54,7 +54,7 @@ First, the data is stored as a [point cloud data](https://en.wikipedia.org/wiki/
 
 #### Outlier Removal Filter
 
-Sensors come with noise data, in the case of RGB-D cameras, they are manifested as random colour and spacial points over the image. In order to filter the noise, a method as the [PCL's StatisticalOutlierRemoval filter](http://pointclouds.org/documentation/tutorials/statistical_outlier.php) computes an average distance to a group of points, if a point is too far whose mean distances are outside a defined interval (determined by a given standard deviation) are removed.
+Sensors come with noise data, in the case of RGB-D cameras, they are manifested as random color and spacial points over the image. In order to filter the noise, a method as the [PCL's StatisticalOutlierRemoval filter](http://pointclouds.org/documentation/tutorials/statistical_outlier.php) computes an average distance to a group of points, if a point is too far whose mean distances are outside a defined interval (determined by a given standard deviation) are removed.
 
 For the PR2 simulation, a mean k value of *20* and a standard deviation of *0.1* provided a cleaner image.
 
@@ -129,7 +129,7 @@ The Robot can extract color and normal histograms of objects
 
 A support vector machine (SVM) is used to train the model. The SVM creates a model from a predefined histogram data from a training set. the training set file is generated from `capture_features_pr2.py` script, then the robot classifies to best what it see to the model it made of what it already learned (cool huh?). a *linear kernel* using a C value of *0.1* is found accurate.
 
-For corss validation, a repetition of 20 was enough for the first scene, however, 40 repetitions were enough for the other two worlds.
+For cross validation, a repetition of 20 was enough for the first scene, however, 40 repetitions were enough for the other two worlds.
 
 For the project, the object identification general accuracy was of *97%* 
 The confusion matrices below shows the normalized results for a test case using the trained model generated above.  

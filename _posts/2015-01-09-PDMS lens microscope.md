@@ -10,7 +10,7 @@ thumbnail-img: /assets/img/PDMS/0.bmp
 tags: [3DCAD, prototyping, Education]
 comments: true
 ---
-University project demosntrating mechanical product design, prototyping and testing.
+University project demonstrating mechanical product design, prototyping and testing.
 
 Create a sturdy, affordable, phone-compatible microscope base for PDMS lenses. This required innovation in design and a deep understanding of material properties and manufacturing processes to achieve both quality and cost-effectiveness.
 

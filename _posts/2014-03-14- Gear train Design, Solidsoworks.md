@@ -19,7 +19,7 @@ Working in a team of three, we utilized Solidworks to design a gear train soluti
 -Sizing each component based on the constraints and desired performance criteria. 
 -Ensuring that all selected components were sourced from existing catalogues, aligning with real-world availability and application. 
 
-The project showcased our ability to merge theoretical knowledge with practical design, fulfilling course requirements and enhancing our engineering skills in mechanical designsizing, all components had to be picked from existing catalogues.
+The project showcased our ability to merge theoretical knowledge with practical design, fulfilling course requirements and enhancing our engineering skills in mechanical designating, all components had to be picked from existing catalogues.
 
 ![gearTrainDesign](/assets/img/gearTrainDesign/1.bmp)
 

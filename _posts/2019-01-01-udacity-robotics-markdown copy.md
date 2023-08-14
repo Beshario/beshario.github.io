@@ -2,9 +2,6 @@
 layout: post
 title: Robotic SW Engineer Education Projects 
 subtitle: Robotic projects covering localization, mapping and planning.
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-# cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/samplereturn.jpeg
 
 tags: [education, robotics, Udacity]

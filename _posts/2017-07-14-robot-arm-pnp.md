@@ -18,7 +18,7 @@ Finding the forward and inverse kinematics of a robotic arm and using it to pick
 
 This project uses a [Gazebo](http://gazebosim.org/#features) simulation platform to program a [Kuka KR210](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots/kr-210-2-f-exclusive) 6 degree of freedom serial manipulator to pick up a cylinder from a shelf and drop it into a bin next to the manipulator.
 
-The cylinder is located radnomly on the shlef, Thus the robot needs to figure out his motor and joint angles and speeds to reach to the can from Global reference frames to his local frames. This could be acheived by calculaing the inverse Kinematics of the Robot.
+The cylinder is located randomly on the shelf, Thus the robot needs to figure out his motor and joint angles and speeds to reach to the can from Global reference frames to his local frames. This could be achieved by calculating the inverse Kinematics of the Robot.
 
 
 
@@ -137,7 +137,7 @@ T5_6 =
 ⎢                        ⎥  
 ⎣   0         0      0  1⎦ 
  
-###Notice becuse of the Gripper's reference frame has the same orientation as joint6
+###Notice becurse of the Gripper's reference frame has the same orientation as joint6
 (the one before it) the transformation matrix in the rotation part is the identity matrix.
 T6_G =
 ⎡1  0  0    0  ⎤  
@@ -187,7 +187,7 @@ T_EE=
 [   0,   0,   0,     1]]
 ~~~
 
-##Inverse Kinametics
+##Inverse Kinematics
 Inverse Kinematics is computing the joint angles when knowing the end effector's position and orientation. Therefore, when knowing the target location, IK computes the amount of movement and direction that needs to be executes to reach that location, making it an important chapter in Robotics.
 Because the [Kuka KR210](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots/kr-210-2-f-exclusive) joints (4  5 and 6) satisfies that its:  
 **Three neighboring joint axes intersect at a single point**
@@ -197,34 +197,3 @@ which is able to rotate the end effector to the exact orientation required for t
   
   
 ![ik](https://user-images.githubusercontent.com/6395647/30779765-8266aa7a-a0c7-11e7-871c-4d21910fac6f.png)
-
-
-I hope you got something from all the graphics above: :smirk:
-## Test Code
-
-The inverse kinematic code was tested with the [IK_debug.py](IK_debug.py) file. it tests the code against known solutions.
-
-Finally, the [IK_server.py]() file contains the code that links into the ROS/Gazebo/Rviz simulator.
-
-### Running the Simulator
-
-To run the [IK_server.py](IK_server.py) code, install this [Udacity Kinematics Project](https://github.com/udacity/RoboND-Kinematics-Project) code. Then change the inverse kinematics flag to `false`.
-
-To launch the simulator, run: first you need to run 
-
-
-```bash
-cd ~/catkin_ws/
-catkin_make
-./src/RoboND-Kinematics-Project/kuka_arm/scripts/safe_spawner.sh
-```
-
-You should see both Gazebo and Rviz launching. Gazebo should have a living room environment with the arm, bookshelf, bin and blue can all visible. Rviz should have the same, along with text above the scene indicating its status.
-
-To run the inverse kinematic code, run the following code in a new terminal:
-
-```bash
-rosrun kuka_arm IK_server.py
-```
-
-You must now press `Next` in the Rviz window to have each step proceed. If everything worked, the arm should eventually move to pick up the can, grab it, then move so the arm will drop the can into the bin on the ground.
