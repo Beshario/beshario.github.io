@@ -7,6 +7,8 @@ subtitle: Who Am I?
 Hi, my name is Beshari.
 I'm a mechatronics engineer with love for autonomous systems, robotics, and machine learning. I have 5 years of experience bringing two main products to market: a laser cleaning system and an autonomous mobile robot.
 
+This is my resume: [Resume](/assets/PDF/Beshari_Jama.pdf)
+
 I will be able to help you with your projects in the following areas:
 1. **Software Development:**
    - C, C++, Python programming for ROS.
