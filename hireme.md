@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hire Me
+title: About Me
 subtitle: Who Am I?
 ---
 
@@ -12,11 +12,9 @@ This is my resume: [Resume](/assets/PDF/Beshari_Jama.pdf)
 <button type="button" class="btn btn-primary btn-lg mx-auto" onclick="if (this.innerHTML === 'Contact Me') { this.innerHTML = 'beshjm@gmail.com'; } else { navigator.clipboard.writeText('beshjm@gmail.com'); alert('Email address copied to clipboard!'); }">Contact Me</button>
 </div>
 
-
 I will be able to help you with your projects in the following areas:
 1. **Software Development:**
    - C, C++, Python programming for ROS.
-   - Web technologies.
    - Machine learning and computer vision.
    - ROS, Gazebo, MoveIt integration.
 

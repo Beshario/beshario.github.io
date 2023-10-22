@@ -20,10 +20,13 @@ author: Beshari Jamal
 ###############################################
 
 navbar-links:
-  Hire Me: "hireme"
-  # Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Hire Me: "hireme"
+  Projects: "projects"
+  Blog: "blog"
+  Experience : "experience"
+  # Content:
+  #   - Blog: "blog"
+  #   - Projects: "projects"
   # Author's home: "https://deanattali.com"
 
 ################
@@ -272,6 +275,7 @@ defaults:
     values:
       layout: "page"
 
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
@@ -290,3 +294,11 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+collections:
+  experience:
+    output: true
+  projects:
+    output: true
+
+source: .
+destination: ./_site
