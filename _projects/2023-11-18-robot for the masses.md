@@ -5,7 +5,7 @@ subtitle: Robot for the Masses
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/robotMasses.png
+thumbnail-img: /assets/img/robot1/assembled.jpg
 
 tags: [fitness, Angular, Ionic, web technologies, mobile app, health]
 comments: true
