@@ -5,7 +5,7 @@ subtitle: Robot for the Masses
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/robot1/assembled.jpg
+thumbnail-img: /assets/img/robotMasses.png
 
 tags: [fitness, Angular, Ionic, web technologies, mobile app, health]
 comments: true
@@ -19,7 +19,7 @@ I'm excited to share a new initiative that's close to my heart: the **Accessible
 
 In my journey through the world of robotics, detailed in my [BlogPost]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/), I've discovered a gap in open-source projects. Many lack completion or functionality or sometimes just documentation, posing a barrier to enthusiasts and learners. This project aims to break down these barriers, offering a pathway to building your own robot with the least amount of complexity.
 My first attempt
-![first robot attempt](/assets/img/robot1/robot+besh.jpg)
+![first robot attempt](/assets/img/robot1/assembled.jpg)
 
 ## Our Mission
 
