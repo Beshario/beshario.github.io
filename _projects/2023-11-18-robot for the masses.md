@@ -7,7 +7,7 @@ subtitle: Robot for the Masses
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/robotMasses.png
 
-tags: [fitness, Angular, Ionic, web technologies, mobile app, health]
+tags: [Robotics, ROS]
 comments: true
 ---
 
@@ -17,24 +17,28 @@ I'm excited to share a new initiative that's close to my heart: the **Accessible
 
 ## Why This Project Matters
 
-In my journey through the world of robotics, detailed in my [BlogPost]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/), I've discovered a gap in open-source projects. Many lack completion or functionality or sometimes just documentation, posing a barrier to enthusiasts and learners. This project aims to break down these barriers, offering a pathway to building your own robot with the least amount of complexity.
-My first attempt
+In my journey through the world of robotics, detailed in my [my blog post]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/), I've discovered a gap in open-source projects. Many lack completion, functionality or sometimes just documentation, posing a barrier to enthusiasts and learners.
+
+
+This continuous effort aims to break down these barriers and make solutions through bridging those gaps, offering a pathway to building your own robot with the least amount of complexity. Few noticeable gaps examples are open source software docker containers unavailability, all over the map component souring, and component, design and assembly standardization. 
+
+This is an image of my first robot.
 ![first robot attempt](/assets/img/robot1/assembled.jpg)
 
 ## Our Mission
 
 - **Simplicity in Design**: Crafting robots that require minimal parts, making assembly straightforward and manageable.
 - **Functional Open Source**: Developing open-source designs that result in fully functional robots, not just theoretical models.
-- **Home-Friendly Robotics**: Ensuring that anyone with basic tools and resources can build these robots at home.
+- **Home-Friendly Robotics**: Ensuring that anyone with basic tools and resources can build, nodiy, and develop their own robots.
 - **Empowering Creators**: Providing a platform for hobbyists, students, and robotics enthusiasts to learn, build, and innovate.
 
 ## The Journey Ahead
 
 This isn't just about launching a project; it's about creating a movement. A movement where anyone, regardless of their technical background, can participate in robotics. I invite you to join me in this endeavor – to learn, to build, and to contribute.
 
-> "From a concept to a companion: empowering you to build functional robots at home."
+> "From a concept to a companion: empowering you to build robots at home."
 
 ---
 
-Curious about the origins of this idea? Read about my experiences and lessons learned in my [BlogPost]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/) about building my first robot.
+Curious about the origins of this idea? Read about my experiences and lessons learned in my [blog post]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/) about building my first robot.
 

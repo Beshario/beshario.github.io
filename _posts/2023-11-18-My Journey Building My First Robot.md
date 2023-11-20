@@ -21,6 +21,10 @@ Post-layoff, I found myself with time - the most valuable resource. It was the p
 ![electronicParts](/assets/img/robot1/parts.jpg)
 Starting with a mishmash of mechatronic parts, I set out to test autonomy and motor control. The plan? A robot powered by an **Arduino Uno board**, a motor driver hat, and a **Raspberry Pi**.
 
+## Relevant links
+[Onshape](https://cad.onshape.com/documents/3f70f4d1c3a2c5a8e45bfeff/w/4827bc6d187c9f5d1b09020b/e/4e4859beb36756ea167cbd20)
+[github](https://github.com/zBeshTech/Assembled)
+
 ## Challenges with Everyday Components
 
 The challenge was immediate. My parts were **limited**: stepper motors without encoders, no lidar, and an open-loop system. The need for the right equipment became glaringly apparent.
@@ -36,6 +40,7 @@ I faced a choice: continue with a limiting design or start afresh with a better 
 ## Research and Component Selection
 
 Back to the drawing board, I broke down the robot's systems. My focus was on **seamless integration** and **minimizing components**. I browsed through various projects to understand what worked for others.
+![assembledRobot](/assets/img/robot1/onshapeRobotAssembled.png)
 
 ## Building and Testing the Robot
 
@@ -47,5 +52,5 @@ Though still in progress, this journey has been an invaluable learning curve in 
 
 ## Conclusion
 
-This experience has taught me that the journey in robotics is about **continuous learning and experimenting**. To those dreaming of building their own robot: start with what you have and learn as you go. The journey is challenging but rewarding.
+This experience has taught me that picking the right components from the start is very important, and gets more expensive as the product advances in development.
 
