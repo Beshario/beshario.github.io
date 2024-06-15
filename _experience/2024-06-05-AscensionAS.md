@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MY WORK for GM Battery Lines
-subtitle: A Reflection on My Role
+title: Journey in Automation
+subtitle: My Role in Implementing Automated Inspection at GM Battery Lines
 
 # cover-img: /assets/img/path.jpg
 thumbnail-img: assets/img/GM/coverImage.jpg
@@ -9,46 +9,57 @@ tags: [robotics, automation]
 comments: true
 categories: experience
 ---
-As part of Ascension Automation Solutions, I had the chance to work on a project for ATS Industrial Automation, commissioning error-proofing inspection systems for GM’s battery lines. This was a significant and rewarding experience.
+As part of Ascension Automation Solutions, I had the opportunity to work on a project for ATS Industrial Automation, commissioning error-proofing inspection systems for GM’s battery lines. This was a significant and rewarding experience.
 
- It all started at ATS campus in Cambridge Ontario. I am introduced as a contrcator from the company I worked for -- Ascension Automation Solutions --. The company provides technical labour resources to other automatoin companies to integrate their equipemnt. Ascension AS also have their own manufacturing and integration products and services, located in Cambridge ON, Canada, where automation equipment is designed, built, tested and delivered to other customers.
+It all started at the ATS campus in Cambridge, Ontario. I was introduced as a contractor from the company I work for, Ascension Automation Solutions. Ascension provides technical labor resources to other automation companies to integrate their equipment. Additionally, Ascension Automation Solutions has its own manufacturing and integration products and services. Located in Cambridge, Ontario, Canada, the company designs, builds, tests, and delivers automation equipment to various customers.
 
 #### Getting Started
 
-My journey began at the ATS Industrial Automation campus, where I custom-built and developed the camera system for the Factory Acceptance Test (FAT) before deployment. This initial phase was crucial for ensuring the system's performance and reliability. The camera were Matrox Cameras using Design assistant software. A powerful flowchart like software to program inspection systems based on widely available algorithims in the machine vision space.
+My journey began at the ATS Industrial Automation campus, where I custom-built and developed the camera system for the Factory Acceptance Test (FAT) before deployment. This initial phase was crucial for ensuring the system's performance and reliability. The cameras were Matrox Cameras, using Design Assistant software, a powerful flowchart-like tool to program inspection systems based on widely available algorithms in the machine vision space.
 
 <dev float="center">
 <img src="/assets/img/GM/FATbateria.jpg" width="100%"/>
 </dev>
 #### Supervising Installation
 
-Once on-site, I oversaw the installation of the hardware. Ensuring each component was correctly placed and securely mounted was critical. After that, even though boring yet necessary, was the verification of parts deliverd based on the design of ATS.
+Once on-site, At Ramos Arizpe, Mexico, I oversaw the installation of the hardware, ensuring each component was correctly placed and securely mounted. Following that, I undertook the verification of the delivered parts against the ATS design specifications. Although this step was tedious, it was essential to ensure everything was in order.
 
 #### Hardware Setup
 
-Next, I directed the experimental setup of the cameras and lighting. Adjusting angles, focus, and exposure to achieve optimal performance on the battery samples. During this phase, given dummy samples to us by GM, we optimized the camera inspeciton programs, camera direction and lighting to have a pass/fail inspection. I also programmed the web interface of the Matrox cameras, to be able to fine-tube inspection paramters on the fly to adapt the program on the variability of samples under test.
+Next, I directed the experimental setup of the cameras and lighting, adjusting angles, focus, and exposure to achieve optimal performance on the battery samples. Using dummy samples provided by GM, we optimized the camera inspection programs, camera direction, and lighting to ensure accurate pass/fail inspections. I also programmed the web interface of the Matrox cameras to allow fine-tuning of inspection parameters on the fly, adapting the program to the variability of samples under test.
 
 #### Troubleshooting
 
-I encountered and resolved various issues, including cameras restarting randomly due to power issues, camera not saving inpsection images on the camera computer, and unreliable inspections with program updated. I also gained better practical PLC and HMI skills integrating, testing and validating various equipment such as stack lights, barcode readers, and torque controllers in manual stations.
+I encountered and resolved various issues, including cameras restarting randomly due to power problems, cameras not saving inspection images on the camera computer, and unreliable inspections with program updates. Additionally, I gained practical PLC and HMI skills by integrating, testing, and validating various equipment such as stack lights, barcode readers, and torque controllers in manual stations.
 
 #### Project Management
 
-Aligning our actions with the plant’s deadlines required effective project management. Coordinating with teams, I ensured we met our timelines without compromising quality.
+Aligning our actions with the plant’s deadlines required effective project management. I prioritized my work based on the project's phases, including N1, N5, N30, PPAP, and production. By coordinating with various teams, I ensured we met our timelines without compromising quality.
+
+During the N1 and N5 phases, I focused on initial setup and verification, ensuring that all systems were correctly installed and operational. In the N30 phase, I concentrated on refining the setup, addressing any issues that arose, and preparing the systems for pre-production validation.
+
+For the PPAP (Production Part Approval Process) phase, I meticulously tested the systems to ensure they met GM's stringent quality standards. This phase was critical for gaining approval to move into full production.
+
+Once in production, I optimized the inspection systems to achieve full automation with minimal intervention. This involved fine-tuning the cameras and software to ensure reliable, consistent performance, resulting in a 100% automated system.
 
 #### Collaboration
 
-Working closely with Ascension and ATS teams, we fostered effective communication and teamwork, to drive the project to success.
+Working closely with the teams from Ascension, ATS, MTQ4, and GM, we fostered effective communication and teamwork to drive the project to success.
 
 #### Reflection
 
 Successfully commissioning these systems was a milestone in my career, reinforcing my passion for automation and robotics. This project highlighted the transformative power of technology in the manufacturing space.
 
-Taking the inspection system to a 100% reliable system was a eye-opening journey for myself. I strived for full automation, equipped with data and the desire to continously improve the system. It took a listening ear and eager heart, and that is something I am proud of in this journey.
+Taking the inspection system to a 100% reliable system was an eye-opening journey for me. I strived for full automation, driven by data and a continuous improvement mindset. It required a listening ear and an eager heart, and I am proud of what I achieved on this journey.
 
 
 #### Tools and Technologies Employed
-- Utilized Windows Networking, Matrox Design Assistant, Keyance IX-Navigator, Studio 5000 (Allen Bradley PLC) and Siemens TIA portal
+
+- Windows Networking
+- Matrox Design Assistant
+- Keyence IX-Navigator
+- Studio 5000 (Allen Bradley PLC)
+- Siemens TIA Portal
 
 
 <dev float="center">
