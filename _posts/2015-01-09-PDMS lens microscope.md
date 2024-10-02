@@ -5,7 +5,7 @@ subtitle: Product Design and Development
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/PDMS/0.bmp
+thumbnail-img: /assets/img/PDMS/0.png
 
 tags: [3DCAD, prototyping, Education]
 comments: true
@@ -28,14 +28,14 @@ Our multi-faceted approach led to the creation of an innovative product that met
 
 
 
-![PDMS](/assets/img/PDMS/0.bmp)
+![PDMS](/assets/img/PDMS/0.png)
 
-![PDMS](/assets/img/PDMS/1.bmp)
+![PDMS](/assets/img/PDMS/1.png)
 
-![PDMS](/assets/img/PDMS/2.bmp)
+![PDMS](/assets/img/PDMS/2.png)
 
-![PDMS](/assets/img/PDMS/3.bmp)
+![PDMS](/assets/img/PDMS/3.png)
 
-![PDMS](/assets/img/PDMS/4.bmp)
+![PDMS](/assets/img/PDMS/4.png)
 
-![PDMS](/assets/img/PDMS/5.bmp)
+![PDMS](/assets/img/PDMS/5.png)

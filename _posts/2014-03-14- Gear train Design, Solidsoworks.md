@@ -5,7 +5,7 @@ subtitle: Gear Train Design with Solidworks
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/gearTrainDesign/3.bmp
+thumbnail-img: /assets/img/gearTrainDesign/3.png
 
 tags: [3DCAD, Education]
 comments: true
@@ -21,12 +21,12 @@ Working in a team of three, we utilized Solidworks to design a gear train soluti
 
 The project showcased our ability to merge theoretical knowledge with practical design, fulfilling course requirements and enhancing our engineering skills in mechanical designating, all components had to be picked from existing catalogues.
 
-![gearTrainDesign](/assets/img/gearTrainDesign/1.bmp)
+![gearTrainDesign](/assets/img/gearTrainDesign/1.png)
 
-![gearTrainDesign](/assets/img/gearTrainDesign/2.bmp)
+![gearTrainDesign](/assets/img/gearTrainDesign/2.png)
 
-![gearTrainDesign](/assets/img/gearTrainDesign/3.bmp)
+![gearTrainDesign](/assets/img/gearTrainDesign/3.png)
 
-![gearTrainDesign](/assets/img/gearTrainDesign/4.bmp)
+![gearTrainDesign](/assets/img/gearTrainDesign/4.png)
 
-![gearTrainDesign](/assets/img/gearTrainDesign/5.bmp)
+![gearTrainDesign](/assets/img/gearTrainDesign/5.png)
