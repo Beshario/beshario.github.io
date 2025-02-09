@@ -29,7 +29,6 @@ Enhanced the customer's online ordering experience with personalized features an
 
 ![DW](/assets/img/DW/1.png)
 
-
 ### Project 2: C$75 Finance
 
 Required a secure and responsive platform for stock purchasing that offers live share value retrieval and detailed transaction history for users.

@@ -7,7 +7,7 @@ cover-img: /assets/img/home/beshari.jpg
 author: Beshari Jamal
 
 ---
-I'm Beshari Jamal, a mechatronics engineer with love for autonomous systems, robotics, and computer vision. I have 5 years of experience in prototyping robot systems including sensors using ROS and ROS industrial. I have worked on projects in the fields of indoor autonomous robots, industrial robotic arms and computer vision. I have a passion for learning and I'm always up for new challenges.
+I'm Beshari Jamal, a mechatronics engineer specializing in autonomous systems, robotics, and computer vision. With 8 years of experience, I've worked across industrial automation, autonomous robotics, and automotive manufacturing, taking projects from concept to launch. I thrive on solving complex engineering challenges. Feel free to explore my work—I hope you find something interesting!"
 
 <!-- [Resume](/assets/PDF/Beshari_Jama.pdf) -->
 
