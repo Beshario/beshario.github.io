@@ -17,7 +17,7 @@ I'm excited to share a new initiative that's close to my heart: the **Accessible
 
 ## Why This Project Matters
 
-In my journey through the world of robotics, detailed in my [my blog post]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/), I've discovered a gap in open-source projects. Many lack completion, functionality or sometimes just documentation, posing a barrier to enthusiasts and learners.
+In my journey through the world of robotics, detailed in my [my blog post: My journey building my first robot]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/), I've discovered a gap in open-source projects. Many lack completion, functionality or sometimes just documentation, posing a barrier to enthusiasts and learners.
 
 
 This continuous effort aims to break down these barriers and make solutions through bridging those gaps, offering a pathway to building your own robot with the least amount of complexity. Few noticeable gaps examples are open source software docker containers unavailability, all over the map component souring, and standardization. 
