@@ -63,15 +63,13 @@ Validated inspection logic before touching production equipment:
 
 ---
 
-#### Controls & Software
+#### Integration & Commissioning
 
-Developed a **Python MVC application** to:
-
-- Teach Fanuc robot points
-- Run inspection cycles
-- Log system state and faults
-
-PLC debugging during commissioning focused on camera trigger timing and handshakes between Vision, PLC, and Robot systems.
+Key integration work:
+- Camera trigger timing optimization
+- Vision ↔ PLC ↔ Robot handshake coordination
+- Fanuc robot teach points for part handling
+- System validation and fault logging
 
 Full inspection station overview:
 
@@ -98,9 +96,8 @@ Full inspection station overview:
 
 #### Tools and Technologies Employed
 
-- Python (MVC Architecture)
-- Fanuc Robot Programming
-- PLC Integration
 - Machine Vision Systems
+- PLC Integration
+- Fanuc Robot Programming
 - Bench Test Validation
 

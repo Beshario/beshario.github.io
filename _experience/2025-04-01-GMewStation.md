@@ -36,19 +36,19 @@ Key tasks:
 - Improved PLC alarms and HMI workflows for faster fault isolation
 - Connected vision systems to plant network and data logging
 
-Inspection software interface showing part counting and pass/fail tracking:
-
-<div align="center">
-<img src="/assets/img/GMewStation/softwareInspectionCounting.jpeg" width="100%"/>
-</div>
-
 ---
 
 #### Part 2: New Inspection Station Delivery
 
 Designed and delivered a complete engineering kit for a new vision inspection station.
 
-**Before: Station mechanical setup ready for vision integration**
+**Software prototype for inspection application:**
+
+<div align="center">
+<img src="/assets/img/GMewStation/softwareInspectionCounting.jpeg" width="100%"/>
+</div>
+
+**Production validation with parts on test background:**
 
 <div align="center">
 <img src="/assets/img/GMewStation/proofOfPrinciple.jpg" width="100%"/>
