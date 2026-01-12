@@ -37,7 +37,7 @@ Stand-alone vision inspection station integrated into the production cell:
 
 Designed a robust, PLC-integrated vision inspection system that detects missing or incorrect gear teeth, fits cycle-time constraints, and survives real factory conditions.
 
-Camera, lens, lighting, and trigger strategy tuned specifically for teeth geometry. PLC-synchronized capture was critical — timing mattered a lot here.
+Camera, lens, lighting, and trigger strategy tuned specifically for Cell geometry. PLC-synchronized capture was critical — timing mattered a lot here.
 
 Robot placing part before inspection:
 
@@ -51,9 +51,8 @@ Robot placing part before inspection:
 
 Built an offline bench test to simulate real-world failure modes:
 
-- Bad air supply conditions
 - Wrong dimension inputs
-- Timing drift scenarios
+- Camera and light proof of principle
 
 Validated inspection logic before touching production equipment:
 
@@ -67,8 +66,8 @@ Validated inspection logic before touching production equipment:
 
 Key integration work:
 - Camera trigger timing optimization
-- Vision ↔ PLC ↔ Robot handshake coordination
-- Fanuc robot teach points for part handling
+- Vision ↔ PLC Hand handshake coordination
+- Kuka robot teach points for part handling
 - System validation and fault logging
 
 Full inspection station overview:
@@ -96,8 +95,8 @@ Full inspection station overview:
 
 #### Tools and Technologies Employed
 
-- Machine Vision Systems
-- PLC Integration
-- Fanuc Robot Programming
+- Machine Vision Systems (IFM)
+- PLC Integration Siemens
+- Kuka Robot Programming
 - Bench Test Validation
 
