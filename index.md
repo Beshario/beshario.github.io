@@ -8,7 +8,7 @@ author: Beshari Jamal
 
 ---
 I'm Beshari Jamal, a mechatronics engineer specializing in autonomous systems, robotics, and computer vision. With 8 years of experience, I've worked across industrial automation, autonomous robotics, and automotive manufacturing, taking projects from concept to launch. I thrive on solving complex engineering challenges.
-Feel free to explore my work—I hope you find something interesting!
+Feel free to explore my work. Currently available for engineering contracts in robotics perception and industrial automation.
 
 <!-- [Resume](/assets/PDF/Beshari_Jama.pdf) -->
 
