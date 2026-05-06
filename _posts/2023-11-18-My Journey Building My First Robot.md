@@ -1,57 +1,46 @@
 ---
 layout: post
-title: The Evolution of My First Robot
-subtitle: A Tale of Trials, Triumphs, and Technical Growth
+title: Building My First Autonomous Robot
+subtitle: Iterating from Arduino and Steppers to a ROS2 Mobile Platform
 thumbnail-img: /assets/img/robot1/robot+besh.jpg
-
-tags: [project, robotics]
+tags: [project, robotics, ROS2, Arduino, autonomy]
 comments: true
 ---
 
 ## Introduction
 
-Ever since my high school days in a robotics competition, the idea of **applying physics to create** something phenomenal has captivated me. This led to my dream: **building a robot**. Not just a machine, but a **companion** that understands the nuances of life.
-
-## The Inspiration
-
-Post-layoff, I found myself with time - the most valuable resource. It was the perfect opportunity to bring my dream to life: **making my own robot**. It was about learning and establishing a **testing ground** for new ideas.
+Building a fully autonomous robot from scratch has been a long-term goal — a personal testing ground for ideas in navigation, perception, and control outside of a work context.
 
 ## Early Decisions and Designs
-<!-- add photo -->
+
 ![electronicParts](/assets/img/robot1/parts.jpg)
-Starting with an idea to use components around me, hey if I cannot make a robot from a everyday diy components, who am I? With a friend of mine, we set out to test autonomy and motor control. The plan? A drivetrain with open loop stepper motors controlled by an **Arduino Uno board**, a motor driver hat, and a **Raspberry Pi** as a master. 
 
-## Relevant links
-[Onshape](https://cad.onshape.com/documents/3f70f4d1c3a2c5a8e45bfeff/w/4827bc6d187c9f5d1b09020b/e/4e4859beb36756ea167cbd20)
-[github](https://github.com/zBeshTech/Assembled)
+Starting with components on hand, the first version used a drivetrain with open-loop stepper motors controlled by an Arduino Uno and motor driver hat, with a Raspberry Pi as master. Built alongside a friend to test basic autonomy and motor control.
 
-## Challenges with Everyday Components
+**Relevant links:**
+- [OnShape CAD Model](https://cad.onshape.com/documents/3f70f4d1c3a2c5a8e45bfeff/w/4827bc6d187c9f5d1b09020b/e/4e4859beb36756ea167cbd20)
+- [GitHub Repository](https://github.com/zBeshTech/Assembled)
 
-The challenge was immediate. My parts were **limited**: stepper motors without encoders, no lidar, and an open-loop system. The need for the right equipment became glaringly apparent. However, I was able to teleoperate the robot, and also have it follow a open loop paths that was fascinating for me to see. [You can find some of the robot model C++ code here](https://github.com/zBeshTech/Assembled/tree/main/src/assembled/src)
+## Challenges with Open-Loop Hardware
+
+The constraints were immediate: stepper motors without encoders, no LiDAR, and no feedback loop. Still managed to teleoperate the robot and run open-loop paths.
+
+[Robot model C++ code](https://github.com/zBeshTech/Assembled/tree/main/src/assembled/src)
 
 ![assembledRobot](/assets/img/robot1/assembled.jpg)
-## Realization and Shift in Strategy
 
-I faced a choice: continue with a limiting design or start afresh with a better solution. I chose the latter, focusing on **ROS2** - the current industry standard.
+## Shift to ROS2
 
-<!-- add a video content from youtube -->
-<iframe class="d-block mx-auto" width="560" height="315" src="https://www.youtube.com/embed/p47VkIIDmBo?si=g9rIYxXNZuWXkphq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Rather than patch the first design, I restarted with ROS2 as the foundation, the current industry standard for autonomous mobile robotics.
+
+<iframe class="d-block mx-auto" width="560" height="315" src="https://www.youtube.com/embed/p47VkIIDmBo?si=g9rIYxXNZuWXkphq" title="First Robot Build" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![assembledRobot](/assets/img/robot1/onshapeRobotAssembled.png)
 
-## Research and Component Selection
+## Second Version
 
-Back to the drawing board, I broke down the robot's systems. My focus was on **seamless integration** and **minimizing components**. I browsed through various projects to understand what worked for others.
+The second version is modular by design, built around DC motors with encoders, an IMU, and a power bank. The focus was on minimizing components while enabling proper closed-loop control and sensor integration.
 
-## Building and Testing the Robot
+## Takeaways
 
-The second version of my robot is underway. With a **modular design** in mind, it's evolving beyond my initial concept. This version boasts a DC motor with an encoder, an IMU, and a power bank.
-
-## Reflections and Future Directions
-
-Though still in progress, this journey has been an invaluable learning curve in **robotics and mechatronics**. It's a stepping stone to many more modular robot designs, aiming to **empower makers**.
-
-## Conclusion
-
-This experience has taught me that picking the right components from the start is very important, and gets more expensive as the product advances in development.
-
+Component selection early in development has an outsized impact on the trajectory of the project. Getting the sensing and actuation right from the start avoids expensive redesigns downstream.

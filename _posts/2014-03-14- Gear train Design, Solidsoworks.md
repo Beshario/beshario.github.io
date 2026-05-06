@@ -1,25 +1,19 @@
 ---
 layout: post
 title: Gear Train Design
-subtitle: Gear Train Design with Solidworks 
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-# cover-img: /assets/img/path.jpg
+subtitle: Mechanical Design for a Cement Mixer Drive System
 thumbnail-img: /assets/img/gearTrainDesign/3.png
-
-tags: [3DCAD, Education]
+tags: [3DCAD, SolidWorks, mechanical-design, education]
 comments: true
 ---
-Solidworks University Gear Train Design Project for Design for Machine Design Course
 
-In the context of the University of Ottawa's Machine Design Course, the challenge was to develop a gear train system tailored for use within a cement mixer. The key requirement was to significantly reduce speed while amplifying torque, and all components had to be selected from existing catalogues, adding to the complexity of the project.
+University of Ottawa Machine Design course project. The goal was to design a gear train for a cement mixer, significantly reducing output speed while amplifying torque, using only components available in existing catalogues.
 
-Working in a team of three, we utilized Solidworks to design a gear train solution that met the specific requirements. The process involved:
--Conducting a comprehensive analysis of essential elements, including shafts, gears, bearings, and gear keys. 
--Sizing each component based on the constraints and desired performance criteria. 
--Ensuring that all selected components were sourced from existing catalogues, aligning with real-world availability and application. 
+Working in a team of three using SolidWorks:
 
-The project showcased our ability to merge theoretical knowledge with practical design, fulfilling course requirements and enhancing our engineering skills in mechanical designating, all components had to be picked from existing catalogues.
+- Analyzed shafts, gears, bearings, and gear keys against course constraints
+- Sized each component to meet performance criteria
+- Selected all parts from standard catalogues to reflect real-world availability
 
 ![gearTrainDesign](/assets/img/gearTrainDesign/1.png)
 

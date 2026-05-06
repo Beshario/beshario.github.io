@@ -1,32 +1,30 @@
 ---
 layout: post
-title: a Contribution to DexHand
-subtitle: Hour by hour building ROS2 Moveit2 package and Ros2 Control for a Humanoid Hand
+title: Open Source Contribution to DexHand
+subtitle: Building a ROS2 MoveIt2 Control Package for a Humanoid Robotic Hand
 thumbnail-img: /assets/img/dexhand/dexHand.png
-
-tags: [project, robotics]
+tags: [robotics, ROS2, MoveIt2, open-source, manipulation, URDF]
 comments: true
 ---
 
-## Introduction
+Contributed to the [DexHand](https://www.dexhand.org) project by building the ROS2 MoveIt2 control package for the humanoid hand. Trent Shumay led firmware development; this contribution covered the higher-level motion planning and control stack. While the code was not merged into DexHand1 before the project was sunsetted, it informed the MoveIt2 integration direction for DexHand2.
 
-With time and resources and an interesting project I liked, I decided to reach out to the owner, to offer Moveit contribution of controlling the Hand.
-Trent Shumay was working on the firmware side, while I contributed from higher level, the Moveit2 side. while the code was not integrated to [DexHand1](https://www.dexhand.org), it paved the way for dexHand2 Moveit2 integration.
+Follow [DexHand](https://x.com/dexhandv2) for the current project.
 
-This blog post documents the work produced as the DexHand1 project is sunsetted , but you can follow [DexHand](https://x.com/dexhandv2)
+### Work Done
 
-## Activites:
+- Literature review of common robotic hand control approaches: Shadow Hand, Chunk Hand, and Leap Hand
+- Built and ran the existing DexHand ROS package
+- Created a MoveIt2 package to control the hand through joint state commands
+- Cleaned up URDF and controller configuration
+- Implemented per-finger chain control with parallel execution support
 
-General literature review of available common hands from a control standpoint, such as shadow hand, chunk hand and leap hand.
-I got to run dex hand package and make a moveit package to control the robot through joint state.
-I also cleaned up some of the URDF, the control produced, which can be found in [github](https://github.com/Beshario/dexhand_control)  control the finger chain one at a time, but it can be done in parallel.  
-I have attached the prep work here
-[investigationDocument](/assets/PDF/Moveit Config interface investigationDocument.pdf)
+[GitHub Repository](https://github.com/Beshario/dexhand_control)
 
-This is the end result: Click the image to see the video
+[Investigation Document](/assets/PDF/Moveit Config interface investigationDocument.pdf)
 
-[![DexHand MOVEIT2 Demo](https://img.youtube.com/vi/SxgqUeM372U/0.jpg)](https://www.youtube.com/watch?v=SxgqUeM372U "DexhandControlPackage")
+### Demo
 
-## Conclusion:
-During this journey I had the pleasure with working alongside smart people. I also learnt even open source projects require dedication and commitment. In addition, there is a need to connect like minded people on projects together. 
+Click the image to watch the MoveIt2 control demo:
 
+[![DexHand MOVEIT2 Demo](https://img.youtube.com/vi/SxgqUeM372U/0.jpg)](https://www.youtube.com/watch?v=SxgqUeM372U "DexHand Control Package")

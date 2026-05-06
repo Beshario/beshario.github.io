@@ -1,32 +1,21 @@
 ---
 layout: post
-title: PDMS lens microscope
-subtitle: Product Design and Development
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-# cover-img: /assets/img/path.jpg
+title: PDMS Lens Microscope
+subtitle: Phone-Compatible Microscope Base Design and Prototyping
 thumbnail-img: /assets/img/PDMS/0.png
-
-tags: [3DCAD, prototyping, Education]
+tags: [3DCAD, prototyping, product-design, education]
 comments: true
 ---
-University project demonstrating mechanical product design, prototyping and testing.
 
-Create a sturdy, affordable, phone-compatible microscope base for PDMS lenses. This required innovation in design and a deep understanding of material properties and manufacturing processes to achieve both quality and cost-effectiveness.
+University project focused on mechanical product design, prototyping, and testing. The goal was to design a sturdy, affordable, phone-compatible microscope base for PDMS lenses.
 
-In a team of two, we:
-Conducted market research to understand the needs.
-Generated concepts and selected the most feasible design.
-Analyzed and evaluated the design for manufacturing and assembly.
-Performed failure mode analysis and prototyping.
-Developed financial models and explored patent options.
-Conducted thorough testing on the final prototype.
-Impact:
+Working in a team of two:
 
-Our multi-faceted approach led to the creation of an innovative product that met affordability and functionality criteria, demonstrating our competence in mechanical design, prototyping, and real-world application.
-
-
-
+- Conducted market research to define requirements
+- Generated and evaluated concepts for manufacturability and assembly
+- Performed failure mode analysis
+- Prototyped and tested the final design
+- Developed financial models and explored patent options
 
 ![PDMS](/assets/img/PDMS/0.png)
 

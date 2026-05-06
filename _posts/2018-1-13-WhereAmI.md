@@ -1,21 +1,15 @@
 ---
 layout: post
 title: Where Am I
-subtitle: Robotics Localization Project
+subtitle: Robot Localization with AMCL in ROS and Gazebo
 gh-repo: Beshario/Udacity-Robotics-Perception-Challenge/
 gh-badge: [star, fork, follow]
-# cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/WHEREAMI/3.png
-tags: [education, robotics, Udacity]
+tags: [robotics, localization, AMCL, ROS, Gazebo, education, Udacity]
 comments: true
 ---
-Two robots localizing itself in a know map using ROS and Gazebo
 
-### INTRODUCTION
-
-Two robots configurations were made to test against each other in localization and path planning.
-The circular robot is mine adn the rectangular robot model is provided by Udacity.
-
+Two robot configurations tested against each other for localization and path planning in a known map using ROS and Gazebo. The circular robot is a custom design; the rectangular model is provided by Udacity.
 
 <p align="center">
   <img src="/assets/img/WHEREAMI/circ robot model.png">
@@ -25,10 +19,7 @@ The circular robot is mine adn the rectangular robot model is provided by Udacit
   <img src="/assets/img/WHEREAMI/udacitybot.png">
 </p>
 
-Some of the performance results are shown below:
-
-At the start the robot is not localized. Therefore the monte carlo algorithm is used to localize the robot. The particles are generated randomly and the robot is moved around the map. The particles are then weighted based on the sensor readings and the particles are resampled. The process is repeated until the robot is localized. This can be show in the last image.
-
+Monte Carlo Localization (AMCL) is used to localize each robot. Particles are generated randomly, weighted against sensor readings, and resampled iteratively until the robot converges on its position in the map.
 
 <p align="center">
   <img src="/assets/img/WHEREAMI/start.png">
@@ -42,8 +33,7 @@ At the start the robot is not localized. Therefore the monte carlo algorithm is 
   <img src="/assets/img/WHEREAMI/3.png">
 </p>
 
-
-The final localization results from both robots are shown below:
+Final localization results for both robots:
 
 <p align="center">
   <img src="/assets/img/WHEREAMI/final%20udacity%20bot.png">
@@ -54,7 +44,6 @@ The final localization results from both robots are shown below:
 </p>
 
 ### Final Report
-
 
 <object data="/assets/img/WHEREAMI/Localization_reportpdf.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/img/WHEREAMI/Localization_reportpdf.pdf">

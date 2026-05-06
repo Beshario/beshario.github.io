@@ -1,42 +1,44 @@
 ---
 layout: page
 title: About Me
-subtitle: Who Am I?
+subtitle: Senior Robotics & Machine Vision Engineer
 ---
 
-Hi, my name is Beshari.
-I'm a mechatronics engineer with love for autonomous systems, robotics, and machine learning. I have 5 years of experience in prototyping robot systems including sensors using ROS and ROS industrial. I have worked on projects in the fields of indoor autonomous robots, industrial robotic arms and computer vision. I have a passion for learning and I'm always looking for new challenges.
+Beshari Jamal is a mechatronics engineer with 8 years of experience delivering autonomous robotics and machine vision systems across automotive, life sciences, and industrial automation sectors. From AMR perception stacks to high-throughput EV battery inspection lines, I work end-to-end — design, integration, commissioning, and production ramp-up.
 
-This is my resume: [Resume](/assets/PDF/Beshari_Jama.pdf)
+Currently working as a Vision Designer at ATS Corporation in life sciences systems.
+
+[Resume](/assets/PDF/Beshari_Jama.pdf)
+
 <div class="d-flex justify-content-center">
-<button type="button" class="btn btn-primary btn-lg mx-auto" onclick="if (this.innerHTML === 'Contact Me') { this.innerHTML = 'beshjm@gmail.com'; } else { navigator.clipboard.writeText('beshjm@gmail.com'); alert('Email address copied to clipboard!'); }">Contact Me</button>
+<a href="https://linkedin.com/in/beshari" target="_blank" class="btn btn-primary btn-lg mx-auto">Connect on LinkedIn</a>
 </div>
 
-I will be able to help you with your projects in the following areas:
-1. **Software Development:**
-   - C, C++, Python programming for ROS.
-   - Machine learning and computer vision.
-   - ROS, Gazebo, MoveIt integration.
+---
 
-2. **ROS Development:**
-    - Navigation stack
-    <!-- - Localization stack -->
-    - ros_control
-    <!-- - cartographer, slam_toolbox, AMCL -->
-    - Deploying ROS on custom robotic solutions
-    - Developing drivers for sensors and actuators.
-    - Hardware integration.
- <!-- mention this as other skills -->
+## Core Competencies
 
- Complementary Skills:
+**Machine Vision & Inspection**
+- 2D and 3D vision system design, integration, and commissioning (100+ systems)
+- EV battery error-proofing and high-throughput inspection
+- Gear teeth and surface inspection system development
 
-2. **3D Design and Prototyping:**
-   - Solidworks, OnShape, Fusion360
-   - 3D printing, sheet metal design
-   - Robotic Layout Design
+**Robotics & Autonomous Systems**
+- ROS / ROS-Industrial, MoveIt!, Gazebo simulation
+- 6-DoF industrial robot programming and cell design (Fanuc)
+- AMR perception sensor suites (LiDAR, structured light, cameras)
+- Sensor fusion, layout design, and prototype bring-up
 
-3. **Web Application Development:**
-   - HTML, CSS, Angular, Ionic
-   - User graphics and experience design
-<!-- make a button to send an emile in bootsrap theme -->
+**Software & Controls**
+- Python — control systems, GUI development, PLC/robot interfaces
+- C++ — perception pipelines, ROS nodes
+- I/O-based robot teaching and playback workflows
 
+**Engineering Delivery**
+- FAT, PPAP, production ramp-up
+- Prototype-to-production system development
+- Cross-functional team leadership on greenfield plant launches
+
+**3D Design & Prototyping**
+- SolidWorks, OnShape, Fusion 360
+- 3D printing, sheet metal design, robotic layout design

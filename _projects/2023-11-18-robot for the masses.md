@@ -1,33 +1,26 @@
 ---
 layout: post
-title: Modular Extendable Robot Project
-subtitle: Robot for the Masses
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-# cover-img: /assets/img/path.jpg
+title: Modular Robot Platform
+subtitle: An Open-Source, Accessible ROS2 Mobile Robot
 thumbnail-img: /assets/img/robotMasses.png
-
-tags: [Robotics, ROS]
+tags: [robotics, ROS2, open-source, AMR, hardware]
 comments: true
 ---
 
-## Introducing the Accessible Robotics Project: Building Functional Robots On Your Own.
+An ongoing project to build a well-documented, modular mobile robot that anyone can replicate. The goal is to close the gap in open-source robotics projects that are often incomplete, undocumented, or difficult to source components for.
 
-I'm excited to share a new initiative that's close to my heart: the **Accessible Robotics Project**. This project is born out of a simple vision – to make robot-building accessible, functional, and achievable.
+### The Problem
 
-## Why This Project Matters
+Most open-source robot projects lack one or more of the following:
+- Complete, working software (not just demos)
+- Reproducible hardware with sourcing guidance
+- Docker containers or environment setup for ROS
+- Clear documentation for getting from zero to running
 
-In my journey through the world of robotics, detailed in my [my blog post: My journey building my first robot]({{site.baseurl }}/2023-11-18-My-Journey-Building-My-First-Robot/), I've discovered a gap in open-source projects. Many lack completion, functionality or sometimes just documentation, posing a barrier to enthusiasts and learners.
+### The Approach
 
+Building a mobile robot platform iteratively, starting from basic motor control and working toward full ROS2 autonomy. Each stage is documented and designed to be reproducible.
 
-This continuous effort aims to break down these barriers and make solutions through bridging those gaps, offering a pathway to building your own robot with the least amount of complexity. Few noticeable gaps examples are open source software docker containers unavailability, all over the map component souring, and standardization. 
-
-This is an image of my first robot.
 ![first robot attempt](/assets/img/robot1/assembled.jpg)
 
-## The Journey Ahead
-
-This isn't just about launching a project; it's about creating a movement. A movement where anyone, regardless of their technical background, can participate in robotics.
-
-> "From a concept to a companion: empowering you to build robots at home."
-
+Hardware currently includes DC motors with encoders, an IMU, and a Raspberry Pi running ROS2. The design is modular to allow sensor and compute upgrades without a full rebuild.

@@ -3,16 +3,16 @@ layout: post
 title: GM Battery Line Inspection
 subtitle: Commissioning Error-Proofing Vision Systems for EV Manufacturing
 thumbnail-img: /assets/img/GM/coverImage.jpg
-tags: [robotics, automation, vision, PLC]
+tags: [machine-vision, automation, EV, commissioning, PLC, Matrox, GM]
 comments: true
 categories: experience
 ---
 
 **Customer:** General Motors
-**Role:** Vision / Automation Engineer
-**Via:** Ascension Automation Solutions (contracted to ATS)
+**Role:** Machine Vision Commissioning Engineer
+**Via:** ATS Corporation / Ascension Automation Solutions
 **Location:** Ramos Arizpe, Mexico
-**Timeline:** Jan – Jul 2024
+**Timeline:** Dec 2023 – Jul 2024
 
 <div align="center">
 <img src="/assets/img/GM/coverImage.jpg" width="100%"/>
@@ -22,15 +22,13 @@ categories: experience
 
 #### The Project
 
-Commissioned error-proofing inspection systems for GM's EV battery lines. Started at the ATS campus in Cambridge, Ontario for Factory Acceptance Testing, then deployed on-site in Mexico.
+Part of the ATS launch team tasked with tooling a brand new General Motors EV plant in Mexico from the ground up. Commissioned error-proofing vision inspection systems for EV battery lines, starting at the ATS campus in Cambridge, Ontario for Factory Acceptance Testing, then deploying on-site in Ramos Arizpe.
 
 ---
 
 #### Factory Acceptance Test (FAT)
 
-Custom-built and developed the camera system before deployment. Used Matrox cameras with Design Assistant software — a flowchart-based tool for programming inspection logic.
-
-FAT setup validating inspection before shipment:
+Built and validated camera inspection systems before deployment using Matrox cameras with Design Assistant, a flowchart-based tool for programming inspection logic.
 
 <div align="center">
 <img src="/assets/img/GM/FATbateria.jpg" width="100%"/>
@@ -40,11 +38,11 @@ FAT setup validating inspection before shipment:
 
 #### On-Site Installation
 
-At Ramos Arizpe, Mexico, I oversaw hardware installation and verified delivered parts against ATS design specifications.
+Oversaw hardware installation and verified delivered parts against ATS design specifications.
 
 Key tasks:
 - Supervised mounting and placement of all components
-- Directed camera and lighting setup — adjusting angles, focus, and exposure
+- Directed camera and lighting setup, adjusting angles, focus, and exposure
 - Optimized inspection programs using dummy samples from GM
 - Programmed web interface for on-the-fly parameter tuning
 
@@ -52,34 +50,24 @@ Key tasks:
 
 #### Troubleshooting
 
-Resolved various field issues:
-- Cameras restarting randomly due to power problems
-- Inspection images not saving to camera computer
-- Unreliable inspections after program updates
+Resolved field issues including:
+- Cameras restarting randomly due to power instability
+- Inspection images failing to save to the camera computer
+- Unreliable inspections following program updates
 
-Also gained hands-on PLC and HMI experience integrating stack lights, barcode readers, and torque controllers.
+Integrated PLC and HMI systems with stack lights, barcode readers, and torque controllers.
 
 ---
 
 #### Project Phases
 
-Aligned work with plant milestones:
+Aligned delivery with GM plant milestones:
 - **N1/N5:** Initial setup and verification
 - **N30:** Refinement and pre-production prep
 - **PPAP:** Validation to GM quality standards
 - **Production:** Optimization for full automation
 
-Result: 100% automated inspection system with minimal intervention.
-
----
-
-#### Results
-
-- Fully automated vision inspection system deployed
-- Met all GM quality standards through PPAP
-- Effective collaboration across Ascension, ATS, MTQ4, and GM teams
-
-Tools used during commissioning:
+Commissioned and tuned 100+ 2D and 3D vision systems for EV battery error-proofing, achieving 240 packs per 12-hour throughput.
 
 <div align="center">
 <img src="/assets/img/GM/toolsUsed.jpg" width="100%"/>
@@ -87,11 +75,9 @@ Tools used during commissioning:
 
 ---
 
-#### Tools and Technologies Employed
+#### Tools and Technologies
 
 - Matrox Design Assistant
 - Keyence IX-Navigator
 - Studio 5000 (Allen Bradley PLC)
 - Siemens TIA Portal
-- Windows Networking
-

@@ -1,18 +1,16 @@
 ---
 layout: home
 title: Hello
-subtitle: Welcome to my website
+subtitle: Machine Vision and Robotics Systems Engineer
 cover-img: /assets/img/home/beshari.jpg
 # share-img: /assets/img/home/beshari.jpg
 author: Beshari Jamal
 
 ---
-I'm Beshari Jamal, a mechatronics engineer specializing in autonomous systems, robotics, and computer vision. With 8 years of experience, I've worked across industrial automation, autonomous robotics, and automotive manufacturing, taking projects from concept to launch. I thrive on solving complex engineering challenges.
-Feel free to explore my work. Currently available for engineering contracts in robotics perception and industrial automation.
+I'm Beshari Jamal, a mechatronics engineer specializing in machine vision systems, robotic perception, and autonomous systems. Over 8 years I've delivered production-grade systems across automotive EV manufacturing, autonomous mobile robotics, and industrial automation, from sensor integration and perception pipeline development to full commissioning and production ramp-up.
 
-<!-- [Resume](/assets/PDF/Beshari_Jama.pdf) -->
+Currently a Vision Designer at ATS Corporation, building inspection systems for life sciences.
 
 <div class="d-flex justify-content-center">
-
-<button type="button" class="btn btn-primary btn-lg mx-auto" onclick="if (this.innerHTML === 'Contact Me') { this.innerHTML = 'beshjm@gmail.com'; } else { navigator.clipboard.writeText('beshjm@gmail.com'); alert('Email address copied to clipboard!'); }">Contact Me</button>
+<a href="https://linkedin.com/in/beshari" target="_blank" class="btn btn-primary btn-lg mx-auto">Connect on LinkedIn</a>
 </div>

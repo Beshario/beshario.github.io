@@ -3,13 +3,13 @@ layout: post
 title: Gear Teeth Vision Inspection
 subtitle: PLC-Integrated Machine Vision for CNC Quality Control
 thumbnail-img: /assets/img/GearTeeth/standAloneStationInCell.jpg
-tags: [robotics, automation, vision, PLC]
+tags: [machine-vision, automation, PLC, Kuka, commissioning, inspection, Siemens]
 comments: true
 categories: experience
 ---
 
 **Customer:** Linamar
-**Role:** Vision / Automation Engineer
+**Role:** Vision Engineer
 **Via:** Ascension Automation Solutions
 **Location:** Guelph, Ontario
 **Timeline:** Aug 2025
@@ -21,9 +21,9 @@ categories: experience
 A CNC machining line producing gears was experiencing intermittent quality escapes:
 
 - CNC occasionally skips teeth during machining
-- Operators can enter wrong dimensions
-- Air supply instability leading to inconsistent part positioning
-- Manual checks weren't catching edge cases
+- Operators entering wrong dimensions
+- Air supply instability causing inconsistent part positioning
+- Manual checks missing edge cases
 
 Stand-alone vision inspection station integrated into the production cell:
 
@@ -35,9 +35,9 @@ Stand-alone vision inspection station integrated into the production cell:
 
 #### System Design
 
-Designed a robust, PLC-integrated vision inspection system that detects missing or incorrect gear teeth, fits cycle-time constraints, and survives real factory conditions.
+Designed a PLC-integrated vision inspection system to detect missing or incorrect gear teeth within cycle-time constraints and real factory conditions.
 
-Camera, lens, lighting, and trigger strategy tuned specifically for Cell geometry. PLC-synchronized capture was critical — timing mattered a lot here.
+Camera, lens, lighting, and trigger strategy were tuned specifically for the cell geometry. PLC-synchronized capture timing was critical to reliable inspection.
 
 Robot placing part before inspection:
 
@@ -49,12 +49,11 @@ Robot placing part before inspection:
 
 #### Bench Testing
 
-Built an offline bench test to simulate real-world failure modes:
+Built an offline bench test to simulate real-world failure modes before touching production equipment:
 
-- Wrong dimension inputs
-- Camera and light proof of principle
-
-Validated inspection logic before touching production equipment:
+- Missing and incorrect tooth detection
+- Wrong dimension input scenarios
+- Camera and lighting proof of principle
 
 <div align="center">
 <img src="/assets/img/GearTeeth/benchTestValidation.jpg" width="100%"/>
@@ -62,11 +61,11 @@ Validated inspection logic before touching production equipment:
 
 ---
 
-#### Integration & Commissioning
+#### Integration and Commissioning
 
 Key integration work:
 - Camera trigger timing optimization
-- Vision ↔ PLC Hand handshake coordination
+- Vision to PLC handshake coordination
 - Kuka robot teach points for part handling
 - System validation and fault logging
 
@@ -81,9 +80,9 @@ Full inspection station overview:
 #### Results
 
 - Stable detection of missing and incorrect teeth
-- Issues caught before parts reached downstream operations
-- Smooth commissioning thanks to early bench validation
-- Operators gained confidence in automated inspection
+- Quality escapes caught before reaching downstream operations
+- Early bench validation enabled smooth production commissioning
+- Operators confident in automated inspection replacing manual checks
 
 ---
 
@@ -93,10 +92,8 @@ Full inspection station overview:
 
 ---
 
-#### Tools and Technologies Employed
+#### Tools and Technologies
 
-- Machine Vision Systems (IFM)
-- PLC Integration Siemens
+- IFM Machine Vision Systems
+- Siemens TIA Portal (PLC)
 - Kuka Robot Programming
-- Bench Test Validation
-
