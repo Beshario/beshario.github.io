@@ -15,16 +15,16 @@ Currently working as a Vision Designer at ATS Corporation in life sciences syste
 </div>
 
 <div class="text-center mt-4 mb-2">
-  <small class="text-muted text-uppercase" style="letter-spacing:0.18em;">Customers worked with</small>
+  <small class="text-muted text-uppercase" style="letter-spacing:0.18em;">Worked with</small>
 </div>
 <div class="d-flex flex-wrap justify-content-center align-items-center gap-2 mb-4">
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">General Motors</span>
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">Linamar</span>
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">Avidbots</span>
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">CNL</span>
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">Canadian Parliament</span>
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">ATS Corporation</span>
-  <span class="badge px-3 py-2" style="background:transparent;border:1px solid #ccc;color:#333;font-weight:500;">Ascension</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">General Motors</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">Linamar</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">Avidbots</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">CNL</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">Canadian Parliament</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">ATS Corporation</span>
+  <span class="badge px-3 py-2" style="background:transparent;border:1px solid rgba(224,224,173,0.5);color:#E0E0AD;font-weight:500;">Ascension</span>
 </div>
 
 ---
@@ -53,6 +53,6 @@ Currently working as a Vision Designer at ATS Corporation in life sciences syste
 
 **Engineering Delivery**
 - Cross-functional team leadership on greenfield plant launches
-- Customer-facing technical delivery (Avidbots, GM, Linamar, CNL, Canadian Parliament)
+- Customer-facing technical delivery (GM, Linamar, CNL, Canadian Parliament)
 - FAT, PPAP, production ramp-up
 - Prototype-to-production system development
