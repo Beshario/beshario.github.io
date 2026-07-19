@@ -32,7 +32,7 @@ EV battery production was ramping fast and vision systems were a bottleneck:
 Supported existing vision systems on the production floor, troubleshooting, optimizing, and connecting systems to factory infrastructure.
 
 Key tasks:
-- Debugged and stabilized inspection logic to reduce false rejects — 50+ camera programs updated based on historical performance and statistics
+- Debugged and stabilized inspection logic to reduce false rejects, updating 50+ camera programs based on historical performance and statistics
 - Improved PLC alarms and HMI workflows for faster fault isolation
 - Connected vision systems to plant network and data logging
 

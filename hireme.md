@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: Senior Robotics & Machine Vision Engineer
+subtitle: Senior Mechatronics Engineer · Robotics, Software & Hardware
 ---
 
-Beshari Jamal is a mechatronics engineer with 8 years of experience delivering autonomous robotics and machine vision systems across automotive, life sciences, and industrial automation sectors. From AMR perception stacks to high-throughput EV battery inspection lines, I work end-to-end — design, integration, commissioning, and production ramp-up.
+Beshari Jamal is a mechatronics engineer with 8 years of experience delivering robotics, machine vision, and industrial automation systems across automotive, life sciences, and mobile robotics sectors. From AMR perception stacks to high-throughput EV battery inspection lines, I work end-to-end across mechanical, electrical, software, integration, commissioning, and production ramp-up.
 
 Currently working as a Vision Designer at ATS Corporation in life sciences systems.
 
@@ -38,8 +38,8 @@ Currently working as a Vision Designer at ATS Corporation in life sciences syste
 - 6-DoF industrial robot programming and cell design (Fanuc, Kuka)
 
 **Software & Controls**
-- C++ — perception pipelines, ROS nodes, sensor drivers
-- Python — control systems, GUI development, PLC/robot interfaces
+- C++ for perception pipelines, ROS nodes, sensor drivers
+- Python for control systems, GUI development, PLC/robot interfaces
 - I/O-based robot teaching and playback workflows
 
 **Hardware & Prototyping**

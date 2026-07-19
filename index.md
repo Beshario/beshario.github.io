@@ -1,13 +1,13 @@
 ---
 layout: home
 title: Hello
-subtitle: Robotics, Software & Hardware Systems Engineer
+subtitle: Mechatronics Engineer · Robotics, Software & Hardware Systems
 cover-img: /assets/img/home/beshari.jpg
 # share-img: /assets/img/home/beshari.jpg
 author: Beshari Jamal
 
 ---
-I'm Beshari Jamal, a mechatronics engineer specializing in robotic perception, autonomous systems, and machine vision. Over 8 years I've delivered production-grade systems across autonomous mobile robotics, automotive EV manufacturing, and industrial automation — from ROS sensor integration and perception pipeline development to full commissioning and production ramp-up.
+I'm Beshari Jamal, a mechatronics engineer working across robotics, software, and hardware. Over 8 years I've delivered production-grade systems in autonomous mobile robotics, automotive EV manufacturing, and industrial automation, from ROS sensor integration and perception pipelines to mechanical design, commissioning, and production ramp-up.
 
 Currently a Vision Designer at ATS Corporation, building inspection systems for life sciences.
 

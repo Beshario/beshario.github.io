@@ -9,7 +9,7 @@ comments: true
 
 ## Introduction
 
-Building a fully autonomous robot from scratch has been a long-term goal — a personal testing ground for ideas in navigation, perception, and control outside of a work context.
+Building a fully autonomous robot from scratch has been a long-term goal: a personal testing ground for ideas in navigation, perception, and control outside of a work context.
 
 ## Early Decisions and Designs
 

@@ -17,13 +17,13 @@ Perception pipeline for a PR2 robot using an RGB-D camera: filter raw point clou
 
 Raw point cloud data goes through three filters before segmentation:
 
-**Statistical Outlier Removal** — removes noise points whose mean neighbor distance falls outside a defined standard deviation threshold (k=20, stddev=0.1).
+**Statistical Outlier Removal**: removes noise points whose mean neighbor distance falls outside a defined standard deviation threshold (k=20, stddev=0.1).
 
-**Voxel Grid Downsampling** — reduces point density by averaging points within each voxel (leaf size 0.01m), keeping enough detail for recognition while reducing compute load.
+**Voxel Grid Downsampling**: reduces point density by averaging points within each voxel (leaf size 0.01m), keeping enough detail for recognition while reducing compute load.
 
-**Passthrough Filter** — crops the scene to a region of interest along Y (-0.4 to 0.4) and Z (0.6 to 0.9) axes, focusing the robot on the tabletop.
+**Passthrough Filter**: crops the scene to a region of interest along Y (-0.4 to 0.4) and Z (0.6 to 0.9) axes, focusing the robot on the tabletop.
 
-**RANSAC Plane Segmentation** — separates the table surface (inliers) from objects (outliers) using a max distance of 0.01m.
+**RANSAC Plane Segmentation**: separates the table surface (inliers) from objects (outliers) using a max distance of 0.01m.
 
 ### Clustering
 
